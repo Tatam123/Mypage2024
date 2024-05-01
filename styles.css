@@ -1,3 +1,7 @@
+.profile-img {
+  width: 25%;
+  border-radius: 50%;
+}
 table {
     border-collapse: collapse;
     border: 2px solid rgb(140 140 140);
@@ -25,4 +29,4 @@ table {
    tbody > tr:nth-of-type(even) {
     background-color: rgb(237 238 242);
   }
- 
+
